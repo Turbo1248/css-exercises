@@ -1,0 +1,22 @@
+.class {
+  background-color: rgb(214, 76, 99);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.bigger {
+  font-size: 24px;
+}
+
+#idOne {
+  color: blue;
+  font-size: 36px;
+}
+
+#idTwo {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+a light green background, a font size of 24px, and bold
